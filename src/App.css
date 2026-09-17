@@ -1,0 +1,8 @@
+#root {
+    min-height: 100vh;
+    /* Takes full screen by default */
+    height: auto;
+    /* Grows infinitely if inner div expands */
+    background-color: #11151c;
+
+}

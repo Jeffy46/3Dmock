@@ -1,5 +1,13 @@
 @import "tailwindcss";
 
 .canvas-container {
-    height: 100vh;
+    min-height: 100vh
+}
+
+#root {
+    min-height: 100vh;
+    /* Takes full screen by default */
+    height: auto;
+    /* Grows infinitely if inner div expands */
+
 }
