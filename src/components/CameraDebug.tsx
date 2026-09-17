@@ -1,6 +1,5 @@
-import { Html, OrbitControls } from "@react-three/drei";
-import { Canvas, useThree } from "@react-three/fiber";
-import Land from "./Land";
+import { Html } from "@react-three/drei";
+import { useThree } from "@react-three/fiber";
 
 const CameraDebug = () => {
   const { camera } = useThree();
