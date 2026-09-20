@@ -31,15 +31,6 @@ const buildings: BuildingType[] = [
     color: unimportant,
   },
   {
-    name: "Building 46",
-    corners: [
-      [-11.8, -4.33],
-      [-6.77, 1.86],
-    ],
-    height: 5,
-    color: unimportant,
-  },
-  {
     name: "Building 53",
     corners: [
       [-38.35, -1.47],
@@ -52,7 +43,7 @@ const buildings: BuildingType[] = [
     name: "Building 60",
     corners: [
       [21.48, 13.16],
-      [28.37, 15.4],
+      [29.37, 15.4],
     ],
     height: 5,
     color: unimportant,
@@ -66,19 +57,11 @@ const buildings: BuildingType[] = [
     height: 5,
     color: unimportant,
   },
-  {
-    name: "Building 63",
-    corners: [
-      [28.99, 15.63],
-      [31.54, 17.49],
-    ],
-    height: 5,
-    color: unimportant,
-  },
+
   {
     name: "Building 66",
     corners: [
-      [30.07, 18.03],
+      [30.07, 15.5],
       [32.62, 23.84],
     ],
     height: 5,
@@ -219,13 +202,13 @@ const buildings: BuildingType[] = [
   {
     name: "Building 54",
     corners: [
-      [-4.06, -1.47],
-      [1.2, 2.71],
+      [-4.06, -2.47],
+      [1.2, 3.71],
       [-9.79, -11.22],
       [4.45, -4.33],
       [1.04, -4.33],
       [5.22, -1.47],
-      [-6.23, -4.33],
+      [-5.23, -4.33],
       [1.04, -1.55],
     ],
     height: 5,
@@ -285,7 +268,7 @@ const buildings: BuildingType[] = [
     corners: [
       [28.29, 31.42],
       [34.17, 35.37],
-      [25.04, 30.88],
+      [25.04, 29.88],
       [28.29, 32.89],
       [11.88, 18.89],
       [15.36, 28.87],
@@ -308,7 +291,7 @@ const buildings: BuildingType[] = [
       [4.06, 24.38],
       [0.19, 24.38],
       [4.06, 27.01],
-      [0.35, 27.01],
+      [0.19, 27.01],
       [7.31, 28.87],
     ],
     height: 5,
@@ -361,9 +344,9 @@ const buildings: BuildingType[] = [
     name: "Building 87",
     corners: [
       [8.63, 40.02],
-      [12.65, 43.34],
-      [12.65, 41.41],
-      [16.68, 43.81],
+      [12.65, 44.34],
+      [12.65, 40.41],
+      [16.68, 44.81],
       [16.68, 43.81],
       [19.47, 46.05],
       [10.95, 43.89],
